@@ -15,13 +15,7 @@ cd explainable-cam
 
 ## Usage
 
-1. Open the notebook:
-
-```bash
-jupyter notebook explainable_cam.ipynb
-```
-
-3. Run through the notebook cells to:
+1. Run through the notebook cells to:
    - Load a pretrained ResNet-50 model.  
    - Apply GradCAM, GradCAM++, and ScoreCAM.  
    - Generate and save visual explanations in the `outputs/` directory.
